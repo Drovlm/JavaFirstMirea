@@ -1,6 +1,5 @@
 package ru.mirea.task7;
 
-
 import java.util.Scanner;
 
 public class Shape {
