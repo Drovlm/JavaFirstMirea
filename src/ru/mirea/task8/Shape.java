@@ -5,7 +5,7 @@ package ru.mirea.task8;
         private int x1, x2, y1, y2;
 
         // regular constructor and method declarations
-        public Shape() { }
+        public Shape(int a, int b) { }
         public Shape(int newX1, int newY1, int newX2,
                      int newY2) {
             x1 = newX1;
